@@ -1,0 +1,9 @@
+Shelf ID,Description,Location_x (center),Location_y (center),Width,Height,Length,Number of items,Shape
+0,Quầy bánh kẹo,1100,550,300,180,300,13,Quầy tròn
+1,Quầy hoá mỹ phẩm,350,500,100,180,400,18,Kệ hàng
+2,Quầy sữa,600,400,100,180,600,9,Kệ hàng
+3,Quầy thực phẩm,1450,400,100,180,600,25,Kệ hàng
+4,Quầy gia vị,1100,150,500,180,100,19,Kệ hàng
+5,Quầy gia dụng,350,950,700,180,100,16,Kệ hàng
+6,Quầy sách và đồ chơi,50,400,100,180,600,16,Kệ hàng
+7,Quầy đông lạnh,1150,950,700,180,100,16,Kệ hàng
